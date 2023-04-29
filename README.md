@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Konstantin
 
 <!--
 **ksmyshlyaev/ksmyshlyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmyshlyaev&show_icons=true&theme=transparent&rank_icon=github)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmyshlyaev&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmyshlyaev&layout=compact&exclude_repo=PyRobotTesting&theme=transparent)](https://github.com/ksmyshlyaev/github-readme-stats)
 
