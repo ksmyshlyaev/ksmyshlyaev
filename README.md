@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmyshlyaev&show_icons=true&theme=transparent&rank_icon=github)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmyshlyaev&layout=compact&exclude_repo=PyRobotTesting&theme=transparent)](https://github.com/ksmyshlyaev/github-readme-stats)
+
+
 ## Contacts:
 <p align="left">
 
