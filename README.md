@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmyshlyaev&layout=compact)](https://github.com/ksmyshlyaev/github-readme-stats)
+
+## Contacts:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/ksmyshlyaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
